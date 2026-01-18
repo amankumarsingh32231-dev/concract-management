@@ -1,20 +1,45 @@
-# Contract App
+## 📄 Contract Management System
 
-This is a minimal Vite + React project containing the Contract Management Platform demo.
+A simple web application to **create, manage, and organize contracts digitally**.
+This project helps users handle contracts in an easy and structured way instead of using paper files.
 
-Quick start (Windows PowerShell):
+---
 
-```powershell
-# 1. Install dependencies
-npm install
+## 🚀 Features
 
-# 2. Start dev server
-npm run dev
-```
+* Create new contracts
+* View existing contracts
+* Edit contract details
+* Delete contracts
+* User-friendly interface
+* Fast and responsive design
 
-Open the Local URL printed by Vite (typically http://localhost:5173/) to view the app.
+---
 
-Notes:
-- Tailwind CSS is configured in `tailwind.config.js` and `src/index.css`.
-- Icons use `lucide-react`.
-- The action→status mapping bug has been fixed in `src/App.jsx` (see `actionToStatus`).
+## 🛠️ Technologies Used
+
+* **React.js** – Frontend framework
+* **JavaScript** – Logic and functionality
+* **HTML & CSS** – Structure and styling
+* **GitHub** – Version control
+
+---
+
+## 📂 Project Purpose
+
+The main goal of this project is to:
+
+* Reduce manual paperwork
+* Store contracts safely in digital format
+* Make contract management easy for users
+
+This project is suitable for **learning React and frontend development**.
+
+ How to Run the Project
+1. Go to the project folder
+   cd contract
+2. Install dependencies
+   npm install
+3. Start the project
+   npm start
+
